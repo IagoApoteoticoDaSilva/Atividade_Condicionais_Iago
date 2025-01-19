@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 01 (Veridficação de Paridade)", "Atividade_Condicionais_Iago\Exercicio 01 (Veridficação de Paridade).csproj", "{2EB7ED22-7031-47C0-8E30-153E5AA627B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 02 (Número Positivo ou Negativo )", "Exercicio 02\Exercicio 02 (Número Positivo ou Negativo ).csproj", "{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 03 (Aprovação de Aluno )", "Exercicio 03 (Aprovação de Aluno )\Exercicio 03 (Aprovação de Aluno ).csproj", "{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 04 (Intervalo de Valores)", "Exercicio 04 (Intervalo de Valores)\Exercicio 04 (Intervalo de Valores).csproj", "{5DA5B964-60DD-4872-9898-8048B3CE53E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 05 (Verificação de Idade)", "Exercicio 05 (Verificação de Idade)\Exercicio 05 (Verificação de Idade).csproj", "{2DCF7638-60B1-4658-9368-02F20FE7C606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 06 (Classificação de Notas)", "Exercicio 06 (Classificação de Notas)\Exercicio 06 (Classificação de Notas).csproj", "{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 07 (Comparação de Números )", "Exercicio 07 (Comparação de Números )\Exercicio 07 (Comparação de Números ).csproj", "{6E95076F-EE2D-4FE0-87D5-51129F7DD928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 08 (Verificação de Votaçã)", "Exercicio 08 (Verificação de Votaçã)\Exercicio 08 (Verificação de Votaçã).csproj", "{E9A0B07D-6279-4321-9B3B-566F09CA8F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 09 (Dia da Semana (usando if-else))", "Exercicio 09 (Dia da Semana (usando if-else))\Exercicio 09 (Dia da Semana (usando if-else)).csproj", "{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 10 (Cálculo do Desconto)", "Exercicio 10 (Cálculo do Desconto)\Exercicio 10 (Cálculo do Desconto).csproj", "{AE22B188-9103-42B0-A878-F990C8AB3A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB7ED22-7031-47C0-8E30-153E5AA627B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB7ED22-7031-47C0-8E30-153E5AA627B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB7ED22-7031-47C0-8E30-153E5AA627B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB7ED22-7031-47C0-8E30-153E5AA627B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA5B964-60DD-4872-9898-8048B3CE53E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA5B964-60DD-4872-9898-8048B3CE53E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA5B964-60DD-4872-9898-8048B3CE53E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA5B964-60DD-4872-9898-8048B3CE53E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCF7638-60B1-4658-9368-02F20FE7C606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCF7638-60B1-4658-9368-02F20FE7C606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCF7638-60B1-4658-9368-02F20FE7C606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCF7638-60B1-4658-9368-02F20FE7C606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E95076F-EE2D-4FE0-87D5-51129F7DD928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E95076F-EE2D-4FE0-87D5-51129F7DD928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E95076F-EE2D-4FE0-87D5-51129F7DD928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E95076F-EE2D-4FE0-87D5-51129F7DD928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A0B07D-6279-4321-9B3B-566F09CA8F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A0B07D-6279-4321-9B3B-566F09CA8F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A0B07D-6279-4321-9B3B-566F09CA8F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A0B07D-6279-4321-9B3B-566F09CA8F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE22B188-9103-42B0-A878-F990C8AB3A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE22B188-9103-42B0-A878-F990C8AB3A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE22B188-9103-42B0-A878-F990C8AB3A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE22B188-9103-42B0-A878-F990C8AB3A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

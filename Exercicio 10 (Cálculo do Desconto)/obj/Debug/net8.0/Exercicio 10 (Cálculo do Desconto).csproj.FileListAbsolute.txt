@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\bin\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\bin\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\bin\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\bin\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\bin\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\refint\Exercicio 10 (Cálculo do Desconto).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\Exercicio 10 (Cálculo do Desconto).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 10 (Cálculo do Desconto)\obj\Debug\net8.0\ref\Exercicio 10 (Cálculo do Desconto).dll

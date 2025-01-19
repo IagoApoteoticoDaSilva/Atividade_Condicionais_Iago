@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\bin\Debug\net8.0\Exercicio 06 (Classificação de Notas).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\bin\Debug\net8.0\Exercicio 06 (Classificação de Notas).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\bin\Debug\net8.0\Exercicio 06 (Classificação de Notas).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\bin\Debug\net8.0\Exercicio 06 (Classificação de Notas).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\bin\Debug\net8.0\Exercicio 06 (Classificação de Notas).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\refint\Exercicio 06 (Classificação de Notas).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\Exercicio 06 (Classificação de Notas).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 06 (Classificação de Notas)\obj\Debug\net8.0\ref\Exercicio 06 (Classificação de Notas).dll

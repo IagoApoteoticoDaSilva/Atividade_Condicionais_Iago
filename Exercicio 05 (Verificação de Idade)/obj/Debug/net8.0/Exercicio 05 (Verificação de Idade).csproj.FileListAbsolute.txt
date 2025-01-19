@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\bin\Debug\net8.0\Exercicio 05 (Verificação de Idade).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\bin\Debug\net8.0\Exercicio 05 (Verificação de Idade).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\bin\Debug\net8.0\Exercicio 05 (Verificação de Idade).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\bin\Debug\net8.0\Exercicio 05 (Verificação de Idade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\bin\Debug\net8.0\Exercicio 05 (Verificação de Idade).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\refint\Exercicio 05 (Verificação de Idade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\Exercicio 05 (Verificação de Idade).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 05 (Verificação de Idade)\obj\Debug\net8.0\ref\Exercicio 05 (Verificação de Idade).dll

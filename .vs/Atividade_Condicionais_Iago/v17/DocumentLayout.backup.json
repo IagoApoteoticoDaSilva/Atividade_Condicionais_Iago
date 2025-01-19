@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE22B188-9103-42B0-A878-F990C8AB3A75}|Exercicio 10 (C\u00E1lculo do Desconto)\\Exercicio 10 (C\u00E1lculo do Desconto).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 10 (c\u00E1lculo do desconto)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE22B188-9103-42B0-A878-F990C8AB3A75}|Exercicio 10 (C\u00E1lculo do Desconto)\\Exercicio 10 (C\u00E1lculo do Desconto).csproj|solutionrelative:exercicio 10 (c\u00E1lculo do desconto)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}|Exercicio 02\\Exercicio 02.csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4BB56-4CC7-4B2E-A1A3-3CBF5CCE6187}|Exercicio 02\\Exercicio 02.csproj|solutionrelative:exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}|Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Exercicio 03 (Aprova\u00E7\u00E3o de Aluno ).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 03 (aprova\u00E7\u00E3o de aluno )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F158C3D-7AFB-42C1-8064-9EA168B1C2A6}|Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Exercicio 03 (Aprova\u00E7\u00E3o de Aluno ).csproj|solutionrelative:exercicio 03 (aprova\u00E7\u00E3o de aluno )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}|Exercicio 09 (Dia da Semana (usando if-else))\\Exercicio 09 (Dia da Semana (usando if-else)).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 09 (dia da semana (usando if-else))\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CA7787-687E-4DFB-A0B1-4A7C62979D7C}|Exercicio 09 (Dia da Semana (usando if-else))\\Exercicio 09 (Dia da Semana (usando if-else)).csproj|solutionrelative:exercicio 09 (dia da semana (usando if-else))\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E95076F-EE2D-4FE0-87D5-51129F7DD928}|Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros ).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 07 (compara\u00E7\u00E3o de n\u00FAmeros )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E95076F-EE2D-4FE0-87D5-51129F7DD928}|Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros ).csproj|solutionrelative:exercicio 07 (compara\u00E7\u00E3o de n\u00FAmeros )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A0B07D-6279-4321-9B3B-566F09CA8F11}|Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 08 (verifica\u00E7\u00E3o de vota\u00E7\u00E3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A0B07D-6279-4321-9B3B-566F09CA8F11}|Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3).csproj|solutionrelative:exercicio 08 (verifica\u00E7\u00E3o de vota\u00E7\u00E3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF7638-60B1-4658-9368-02F20FE7C606}|Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Exercicio 05 (Verifica\u00E7\u00E3o de Idade).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 05 (verifica\u00E7\u00E3o de idade)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF7638-60B1-4658-9368-02F20FE7C606}|Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Exercicio 05 (Verifica\u00E7\u00E3o de Idade).csproj|solutionrelative:exercicio 05 (verifica\u00E7\u00E3o de idade)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA5B964-60DD-4872-9898-8048B3CE53E6}|Exercicio 04 (Intervalo de Valores)\\Exercicio 04 (Intervalo de Valores).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 04 (intervalo de valores)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA5B964-60DD-4872-9898-8048B3CE53E6}|Exercicio 04 (Intervalo de Valores)\\Exercicio 04 (Intervalo de Valores).csproj|solutionrelative:exercicio 04 (intervalo de valores)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}|Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Exercicio 06 (Classifica\u00E7\u00E3o de Notas).csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\exercicio 06 (classifica\u00E7\u00E3o de notas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CC7DEE-3F8E-4B48-B91C-89F25E239D61}|Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Exercicio 06 (Classifica\u00E7\u00E3o de Notas).csproj|solutionrelative:exercicio 06 (classifica\u00E7\u00E3o de notas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB7ED22-7031-47C0-8E30-153E5AA627B9}|Atividade_Condicionais_Iago\\Atividade_Condicionais_Iago.csproj|c:\\users\\evanildo\\source\\repos\\atividade_condicionais_iago\\atividade_condicionais_iago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB7ED22-7031-47C0-8E30-153E5AA627B9}|Atividade_Condicionais_Iago\\Atividade_Condicionais_Iago.csproj|solutionrelative:atividade_condicionais_iago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Atividade_Condicionais_Iago\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_Condicionais_Iago\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Atividade_Condicionais_Iago\\Program.cs",
+              "RelativeToolTip": "Atividade_Condicionais_Iago\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:35:31.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 02\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 02\\Program.cs",
+              "RelativeToolTip": "Exercicio 02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:46:23.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Program.cs",
+              "RelativeToolTip": "Exercicio 03 (Aprova\u00E7\u00E3o de Aluno )\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:55:28.943Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 04 (Intervalo de Valores)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 04 (Intervalo de Valores)\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 04 (Intervalo de Valores)\\Program.cs",
+              "RelativeToolTip": "Exercicio 04 (Intervalo de Valores)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:01:26.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Program.cs",
+              "RelativeToolTip": "Exercicio 05 (Verifica\u00E7\u00E3o de Idade)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:28:05.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Program.cs",
+              "RelativeToolTip": "Exercicio 06 (Classifica\u00E7\u00E3o de Notas)\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:32:14.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Program.cs",
+              "RelativeToolTip": "Exercicio 07 (Compara\u00E7\u00E3o de N\u00FAmeros )\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:40:57.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Program.cs",
+              "RelativeToolTip": "Exercicio 08 (Verifica\u00E7\u00E3o de Vota\u00E7\u00E3)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:49:11.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 09 (Dia da Semana (usando if-else))\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 09 (Dia da Semana (usando if-else))\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 09 (Dia da Semana (usando if-else))\\Program.cs",
+              "RelativeToolTip": "Exercicio 09 (Dia da Semana (usando if-else))\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:53:10.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 10 (C\u00E1lculo do Desconto)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 10 (C\u00E1lculo do Desconto)\\Program.cs",
+              "ToolTip": "C:\\Users\\evanildo\\source\\repos\\Atividade_Condicionais_Iago\\Exercicio 10 (C\u00E1lculo do Desconto)\\Program.cs",
+              "RelativeToolTip": "Exercicio 10 (C\u00E1lculo do Desconto)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:57:57.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

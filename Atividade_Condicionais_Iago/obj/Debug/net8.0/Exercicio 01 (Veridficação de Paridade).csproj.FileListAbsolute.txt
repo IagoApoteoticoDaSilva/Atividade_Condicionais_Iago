@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\bin\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\bin\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\bin\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\bin\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\bin\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\refint\Exercicio 01 (Veridficação de Paridade).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\Exercicio 01 (Veridficação de Paridade).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Atividade_Condicionais_Iago\obj\Debug\net8.0\ref\Exercicio 01 (Veridficação de Paridade).dll

@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\bin\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\bin\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\bin\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\bin\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\bin\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\refint\Exercicio 08 (Verificação de Votaçã).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\Exercicio 08 (Verificação de Votaçã).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 08 (Verificação de Votaçã)\obj\Debug\net8.0\ref\Exercicio 08 (Verificação de Votaçã).dll

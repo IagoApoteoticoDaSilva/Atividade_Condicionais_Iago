@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\bin\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\bin\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\bin\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\bin\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\bin\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\refint\Exercicio 02 (Número Positivo ou Negativo ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\Exercicio 02 (Número Positivo ou Negativo ).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 02\obj\Debug\net8.0\ref\Exercicio 02 (Número Positivo ou Negativo ).dll

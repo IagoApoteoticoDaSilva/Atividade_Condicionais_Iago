@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\bin\Debug\net8.0\Exercicio 04 (Intervalo de Valores).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\bin\Debug\net8.0\Exercicio 04 (Intervalo de Valores).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\bin\Debug\net8.0\Exercicio 04 (Intervalo de Valores).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\bin\Debug\net8.0\Exercicio 04 (Intervalo de Valores).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\bin\Debug\net8.0\Exercicio 04 (Intervalo de Valores).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\refint\Exercicio 04 (Intervalo de Valores).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\Exercicio 04 (Intervalo de Valores).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 04 (Intervalo de Valores)\obj\Debug\net8.0\ref\Exercicio 04 (Intervalo de Valores).dll

@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\bin\Debug\net8.0\Exercicio 07 (Comparação de Números ).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\bin\Debug\net8.0\Exercicio 07 (Comparação de Números ).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\bin\Debug\net8.0\Exercicio 07 (Comparação de Números ).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\bin\Debug\net8.0\Exercicio 07 (Comparação de Números ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\bin\Debug\net8.0\Exercicio 07 (Comparação de Números ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\refint\Exercicio 07 (Comparação de Números ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\Exercicio 07 (Comparação de Números ).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 07 (Comparação de Números )\obj\Debug\net8.0\ref\Exercicio 07 (Comparação de Números ).dll

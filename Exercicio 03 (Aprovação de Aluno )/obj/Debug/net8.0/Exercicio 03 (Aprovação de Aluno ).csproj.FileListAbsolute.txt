@@ -1,0 +1,14 @@
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).AssemblyInfoInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).AssemblyInfo.cs
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).csproj.CoreCompileInputs.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\bin\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).exe
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\bin\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).deps.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\bin\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).runtimeconfig.json
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\bin\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\bin\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\refint\Exercicio 03 (Aprovação de Aluno ).dll
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).pdb
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\Exercicio 03 (Aprovação de Aluno ).genruntimeconfig.cache
+C:\Users\evanildo\source\repos\Atividade_Condicionais_Iago\Exercicio 03 (Aprovação de Aluno )\obj\Debug\net8.0\ref\Exercicio 03 (Aprovação de Aluno ).dll
